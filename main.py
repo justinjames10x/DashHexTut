@@ -35,6 +35,8 @@ GRAY = (239, 237, 238)
 GRAY2 = (200, 200, 203)
 GRAY3 = (180, 180, 180)
 
+#need to add some more color 
+
 COLORS = [RED, GREEN, BLUE, YELLOW, PURPLE]
 cindex = 0
 ccolor = COLORS[cindex]
