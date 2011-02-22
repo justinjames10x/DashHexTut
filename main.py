@@ -1,8 +1,3 @@
-# Hex Rush
-
-# Author : Prajjwal Pathak (pyguru)
-# Date : Thursday, 12 Feb, 2022
-
 import math
 import random
 import pygame
@@ -25,7 +20,7 @@ pygame.display.set_caption('Connected')
 clock = pygame.time.Clock()
 FPS = 90
 
-# COLORS **********************************************************************
+# COLORS 
 
 RED = (255,0,0)
 GREEN = (0,177,64)
